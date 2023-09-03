@@ -66,6 +66,8 @@ flutter:
     - images/dice4.png
     - images/dice5.png
     - images/dice6.png
+    - images/dice7.png
+    - images/dice8.png
    
 
   # An image asset can refer to one or more resolution-specific "variants", see
